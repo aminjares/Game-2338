@@ -1,8 +1,7 @@
 ## Game Review 1
 
-Details
-
-### Game Title:
+### Game Title: Respawn
+By: Kay Lynn, DBorsheim, djcarpenter
 
 ### Summary
 
