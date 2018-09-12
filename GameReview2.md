@@ -2,9 +2,9 @@
 
 ## Game Title: Thieves Assassin
 
-### Summary
+## Summary
 
-### Final thoughts
+## Final thoughts
 
-### Works Cited
+## Works Cited
 Crazygames.com, Y8.com, id.net
