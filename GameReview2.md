@@ -1,6 +1,6 @@
-## Game Review 2
+### Game Review 2
 
-# Game Title: Thieves Assassin
+## Game Title: Thieves Assassin
 ### Y8.com, id.net
 
 ### Summary
