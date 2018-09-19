@@ -1,4 +1,4 @@
-## Game Critique
+# Game Critique
 
 ### Game Title: Grand Theft Auto V
 Grand Theft Auto V is both an action and adventure video game developed by Rockstar North and published by Rockstar Games. The  game was released in September 2013 for PlayStation 3 and Xbox 360. In November 2014 the game was released for PlayStation 4, Xbox One, and in April 2015 for Microsoft Windows.
