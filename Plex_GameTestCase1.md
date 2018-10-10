@@ -26,7 +26,7 @@
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 |Start up the game to make sure the game starts up with story mode.|The game started in story mode to start new game.|√|			
-| 2 | | | |			
+| 2 |Start new game by picking one of the six characters that all have different puzzles to beat in order to complete the game.|Started a new game with one of the six characters revealing their path to complete the game.|√|			
 | 3 | | | |			
 | 4 | | | |			
 | 5 | | | |			
