@@ -25,7 +25,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Start up the game to make sure story mode starts up. | Story mode fully started up like expected. | |			
+| 1 |Start up the game to make sure the game starts up with story mode.|The game started in story mode to   | |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
