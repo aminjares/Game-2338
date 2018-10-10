@@ -3,9 +3,9 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #1
 * Test Case Name:
-  * #Number
+  * #3.4 Load Game Requirements
 * Component: 
   * Story mode
 * Test Case Designer:
