@@ -7,21 +7,21 @@
 * Test Case Name:
   * #Number
 * Component: 
-  * Description
+  * Story mode
 * Test Case Designer:
-  * Name
+  * Arthur and Kiath
 * Creation Date:
-  * Date
+  * October 9, 2018
 * Modified By:
   * Arthur and Kiath
 * Modified Date:
   * October 9, 2018
 * Requirements Covered:
-  * Description
+  * Only Works in story mode.
 * Test Description/Purpose:
-  * Description
+  * Game data in online mode is loaded from the database.
 * Pre-Test Conditions:
-  * Description
+  * Go into Story mode to see if the user can load the last saved game file.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
