@@ -13,9 +13,9 @@
 * Creation Date:
   * Date
 * Modified By:
-  * Name
+  * Arthur and Kiath
 * Modified Date:
-  * Date
+  * October 9, 2018
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
