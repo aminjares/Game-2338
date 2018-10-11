@@ -36,7 +36,8 @@
 | 9 | | | |			
 | 10 | | | |			
 
-## Overall Test Status:
+## Overall Test Status: 
+While playing "PLEX" multiplayer online mode I came across game data loading from the database that should only be loaded in story mode. First, I started up story mode, choose a charatcer to run through one level, and created a saved game file. Next, I had joined the PLEX multiplayer online mode and the game data had loaded from the database. Based on the specification requirements this test had failed. In result, I went back to story mode to run through another level and create a new saved game file to overwrite the first. In addition, I started the online multiplayer mode back up and this time the game data didn't load from the database. To conculde, the first saved game file must of been a bug or glitch that caused the test to fail.   
 
 
 
