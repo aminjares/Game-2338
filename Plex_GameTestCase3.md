@@ -29,9 +29,9 @@
 | 2 | | |√|			
 | 3 | | |√|			
 | 4 | | |√|			
-| 5 |Join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 6 | | |√|			
-| 7 | | | |			
+| 5 |First test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 6 |Second test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 7 |Thrid test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |			
