@@ -15,7 +15,7 @@
 * Modified By:
   * Arthur and Kiath
 * Modified Date:
-  * October 9, 2018
+  * October 16, 2018
 * Requirements Covered:
   * Only Works in story mode.
 * Test Description/Purpose:
