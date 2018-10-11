@@ -3,11 +3,11 @@
 ## Test Details
 
 * Test Case ID:
-  * 1
+  * 5
 * Test Case Name:
-  * 3.4 Load Game Requirements
+  * 3.9 Music Driver Requirements
 * Component: 
-  * Story mode
+  * Story mode and online mode
 * Test Case Designer:
   * Arthur and Kiath
 * Creation Date:
@@ -17,11 +17,11 @@
 * Modified Date:
   * October 16, 2018
 * Requirements Covered:
-  * Only Works in story mode.
+  * play music in story mode and in online mode.
 * Test Description/Purpose:
-  * Game data in online mode is loaded from the database.
+  * Will always play the most current music.
 * Pre-Test Conditions:
-  * Go into Story mode to see if the user can load the last saved game file.
+  * Play music in Story mode and online mode to see if music will always play current music.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
