@@ -29,7 +29,7 @@
 | 2 | | |√|			
 | 3 | | |√|			
 | 4 | | |√|			
-| 5 |Join an online multiplayer server to play current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 5 |Join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
 | 6 | | |√|			
 | 7 | | | |			
 | 8 | | | |			
