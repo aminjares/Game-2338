@@ -17,7 +17,7 @@
 * Modified Date:
   * October 16, 2018
 * Requirements Covered:
-  * play music in story mode and in online mode.
+  * Play music in story mode and in online mode.
 * Test Description/Purpose:
   * Will always play the most current music.
 * Pre-Test Conditions:
@@ -29,7 +29,7 @@
 | 2 | | |√|			
 | 3 | | |√|			
 | 4 | | |√|			
-| 5 | | |√|			
+| 5 |Join an online multiplayer server to play current music.|Joined an online multiplayer server and the most current music played.|√|			
 | 6 | | |√|			
 | 7 | | | |			
 | 8 | | | |			
