@@ -25,9 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Start up the game to make sure the game starts up with story mode.|The game started in story mode to start new game.|√|			
+| 1 |Start up the game to make sure the game starts up with story mode.|The game started in story mode to start new game was a success.|√|			
 | 2 |Start new game by picking one of the six characters that all have different puzzles to beat in order to complete the game.|Started a new game with one of the six characters revealing their path to complete the game.|√|			
-| 3 | | | |			
+| 3 |Play through one level in story mode and perform a successful save.|After playing through one level saving the current progress was successful|√|			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
