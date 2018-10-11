@@ -29,7 +29,7 @@
 | 2 |Start new game by picking one of the six characters that all have different puzzles to beat in order to complete the game. |Started a new game with one of the six characters revealing their path to complete the game.|√|			
 | 3 |Play through one level in story mode and perform a successful save.|After playing through one level saving the current progress was successful|√|			
 | 4 | Join an online multiplayer server to try to load the saved game file from story mode.|After joining an online multiplayer server the game data in online mode is loaded from the database.|√|			
-| 5 | Start story mode back up and play through another level to preform an overwrite saved game file over the first one.|Played through another level and created a new saved game file.|√|			
+| 5 | Start story mode back up and play through another level to preform an overwrite saved game file over the first one.|Played through another level in story mode and created a new saved game file.|√|			
 | 6 |Join back on another online multiplayer server to see if saved data loads.|This time in online multiplayer the game data didn't load from the database.|√|			
 | 7 | | | |			
 | 8 | | | |			
