@@ -19,9 +19,9 @@
 * Requirements Covered:
   * Play music in story mode and in online mode.
 * Test Description/Purpose:
-  * Will always play the most current music.
+  * Will load all of the game music and returns the appropriate songs as needed.
 * Pre-Test Conditions:
-  * Play music in Story mode and online mode to see if music will always play current music.
+  * Play music in Story mode and online mode. See if both modes loads all of the game music and returns the appropriate songs as needed.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
