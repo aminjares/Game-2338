@@ -25,13 +25,12 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | |√|			
-| 2 | | |√|			
-| 3 | | |√|			
-| 4 | | |√|			
-| 5 |First test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 6 |Second test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 7 |Thrid test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 1 |First test run to start in story mode and play the most current music.|Started in story mode and the most current music played.|√|			
+| 2 |Second test run to start in story mode and play the most current music.| |√|			
+| 3 |Third test run to start in story mode and play the most current music.| |√|						
+| 4 |First test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 5 |Second test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
+| 6 |Thrid test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |			
