@@ -25,12 +25,12 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |First test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.|Started in story mode |√|			
-| 2 |Second test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.| |√|			
-| 3 |Third test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.| |√|						
-| 4 |First test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|			
-| 5 |Second test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|			
-| 6 |Thrid test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|						
+| 1 |First test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.|Started in story mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
+| 2 |Second test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.|Started in story mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
+| 3 |Third test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.|Started in story mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|						
+| 4 |First test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
+| 5 |Second test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|			
+| 6 |Thrid test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|						
 
 ## Overall Test Status: 
 
