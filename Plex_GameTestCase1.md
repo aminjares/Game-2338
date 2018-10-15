@@ -22,6 +22,7 @@
   * Game data in online mode is loaded from the database.
 * Pre-Test Conditions:
   * Go into Story mode to see if the user can load the last saved game file.
+
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
