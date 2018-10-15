@@ -33,7 +33,7 @@
 | 6 |Thrid test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returned the appropriate songs as needed.|√|						
 
 ## Overall Test Status: 
-
+After running a few test to make sure story mode and online build mode plays music our test was successful. In both modes the music played, loaded all of the game music, and returned the appropriate songs as needed. Running muliple test helps to make music will play each time in story mode and in online build mode. 
 
 
 ## Run History:
