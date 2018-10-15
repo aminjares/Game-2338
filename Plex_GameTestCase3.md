@@ -25,15 +25,12 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |First test run to start in story mode and play the most current music.|Started in story mode and the most current music played.|√|			
-| 2 |Second test run to start in story mode and play the most current music.| |√|			
-| 3 |Third test run to start in story mode and play the most current music.| |√|						
-| 4 |First test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 5 |Second test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 6 |Thrid test run join an online multiplayer server to play the most current music.|Joined an online multiplayer server and the most current music played.|√|			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |First test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.|Started in story mode |√|			
+| 2 |Second test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.| |√|			
+| 3 |Third test run in story mode. Start in story mode to see if story mode loads all of the game music and returns the appropriate songs as needed.| |√|						
+| 4 |First test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|			
+| 5 |Second test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|			
+| 6 |Thrid test run in build mode. Join an online multiplayer server to see if build mode loads all of the game music and returns the appropriate songs as needed.|Joined an online multiplayer server in build mode that successfully loaded all of the game music and returns the appropriate songs as needed.|√|						
 
 ## Overall Test Status: 
 
@@ -45,6 +42,6 @@
 | 1 | 10/9/2018 | 10/9/2018 | Success |			
 | 2 | 10/10/2018 | 10/10/2018 | Success |			
 | 3 | 10/11/2018 | 10/11/2018 | Success |
-| 4 | 10/12/2018 | 10/12/2018 | Failed |
+| 4 | 10/12/2018 | 10/12/2018 | Success |
 | 5 | 10/14/2018 | 10/14/2018 | Success |
 | 6 | 10/16/2018 | 10/16/2018 | Success |
