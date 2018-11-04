@@ -2,12 +2,12 @@
 
 ## Game Title: Far Cry 5 
 
-## Summary
+### Summary
 Far Cry 5 is an action-adventure, first-person, and a shooter video game developed by Ubisoft Montreal and Ubisoft Toronto. Also, published by Ubisoft for Microsoft Windows, PlayStation 4 and Xbox One. Far Cry 5 is the inheritor of the 2014 video game Far Cry 4, and the fifth main installment in the Far Cry series. Far Cry 5  was released on March 27, 2018. Far Cry 5 was heavily inspired by several socio-political events in modern history, such as the Cold War and the September 11 attacks. Far Cry 5 is an action-adventure first-person shooter set in an open world environment which the player can explore freely on foot, via various vehicles, and fast travel. Unlike previous titles in the series where the player takes on the role of a set character, the game gives the player the opportunity to customize their character's appearance. The player has a variety of ranged and explosive weapons to fight against enemies, with the game placing a renewed emphasis on close-quarters combat compared to the previous Far Cry titles by introducing a wider range of melee weapons. In addition, Far Cry 5 features a new weapons ballistics system that includes elements like a bullet dropping over a distance to make it more realistic. 
 
-## Final thoughts
+### Final thoughts
 Far Cry 5 is a very fun game in my book for many reasons, such as being able to fast travel across the map, have an online friend join to help with the story mode, and all the awesome vehicles to use. While fast traveling the user gets to choose sky drop or ground, but I always like to skydive then parachute to the exact location I want to be. In addition, when the user is skydiving the can deploy the wingsuit for further and faster drop. Another reason is being able to have an online friend join your story to help take over diffcult areas of enemies. While playing with a friend online (CO-OP) only the hosting player will be able to accept missions, recruit/command Guns for Hire, and keep the progress you make in the world. Your friend, meanwhile, will get to keep all their progression as a player, retaining any cash, guns, perks, or loot they earn while fighting alongside you. The game will also keep you together to make sure you watch each other's backs, by taking account of each player's position and teleporting one closer to the other if someone has wandered too far away.The third reason why Far Cry 5 is a fun game to play is the various vehicles available to use to get around the map to take down enemies and blow s*@t up.  
 
 
-## Works Cited
+### Works Cited
 https://far-cry.ubisoft.com/game/en-us/game-info/game-features.aspx
