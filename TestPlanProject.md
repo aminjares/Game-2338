@@ -8,7 +8,7 @@
 * Test Objectives
   * The objectives our team will accomplish by testing Dark Ninja on desktop are testing all the game controls and their functions. The team will accomplish this by making sure the game allows us (the player) to select a game control and perfom the correct function.
 * Acceptance Criteria
-  * Estimated number of defect or internal test acceptance criteria
+  * Estimated number of defect or internal test acceptance criteria... what is expected out of the outcome of the project
 * References
   * List any reference documents
 
@@ -25,9 +25,9 @@
 ### Section 3: Specifications and Evaluations
 * Requirement Specifications
   * Business Rules/Functions
-* List any business requirements (list)
-  * Software/Game Functions
-* List any software requirements (list)
+* List any business requirements (list) ceo requirements, managers
+  * Software/Game Functions 
+* List any software requirements (list) developers requirements
   * Test/Function Relationships
   * Right Arrow - Move Right
   * Left Arrow - Move Left
@@ -62,4 +62,4 @@
 * What modes does the game run in?
 * What are the major functions of game?
 
-Dark ninja is a single player, action game, platform game, and a free online game. The Dark Ninja is a hero who needs to cross the village of rocks and eliminate the red ninjas. The dark ninja can Run, jump, use a parachute, become invisible, dash across the floor, shoot shurikens, hang on to walls to help from falling and use special attacks to kill enemies. The ninja can collect ninja coins to score points for a high score and collect energy potions to increase the energy bar.
+Dark ninja is a single player, action game, platform game, and a free online game. Dark Ninja runs in desktop mode and mobile mode that have different game controls depending which mode is choosen, in this case, desktop mode. The Dark Ninja is a hero who needs to cross the village of rocks and eliminate the red ninjas. The dark ninja can Run, jump, use a parachute, become invisible, dash across the floor, shoot shurikens, hang on to walls to help from falling and use special attacks to kill enemies. The ninja can collect ninja coins to score points for a high score and collect energy potions to increase the energy bar.
