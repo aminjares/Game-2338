@@ -2,9 +2,9 @@
 
 ### Game Title: Hitman 2 
 
-Give title of game, type of game and game designer/maker 
+(Give title of game, type of game and game designer/maker) 
 
-Name 3-5 aspects of the game you think should be tested and why?
+(Name 3-5 aspects of the game you think should be tested and why?)
 
 Example: 
 
