@@ -1,15 +1,9 @@
 # Game Critique 3
 
-### Game Title: Hitman 2 
+### Game Title: Hitman 2 (PS4) 
 
-(Give title of game, type of game and game designer/maker) 
+Hitman 2 is a stealth video game developed by IO Interactive and published by Warner Bros. Hitman 2 was released on November 13, 2018 for Microsoft Windows, PlayStation 4, and Xbox One. It is the seventh entry in the Hitman video game series and is the sequel to the 2016 game Hitman. After playing hitman 2 on Playstation 4 and already have experienced hitman I spoted some functions I think a tester would look at.
 
-(Name 3-5 aspects of the game you think should be tested and why?)
+One function a tester would catch quickly is the player movement. To make Agent 47 run the user must hold the game control L1 and move the analog stick in the desired direction. When performing this function Agent 47 stops after turning left or right sometimes. To continue running the user has to let go game control L1 and hold L1 again. The correct requirment is the function should have Agent 47 run continuously in the user's desired direction from holding game control L1 and moving the analog stick left or right until the user lets go of game control L1. 
 
-Example: 
-
-The tennis game on Wii Sports is a very fun and easy game to play. The maker of Wii sports is Nintendo and there are several other sports that can be played on the Wii Sports game disc. After playing the tennis game on Wii Sports, there are several functions I think a tester would look at.
-
-One function that would be looked at immediately is the player mode/selection. A total of four players can play a tennis match; this can be done with 1 Wii remote or multiple Wii remotes. Another important function that might be tested is the player movement, making sure the direction you are moving is in line with the game.  Scoring would be another major function that should be tested, if a player hits the ball out of bound or hits the net, making sure a proper out occurs and the scoring is incremented correctly.
-
-These are just a few of the initial functions that would a tester would need to look at when evaluating the Wii Sports tennis game. 
+These are just a few of the initial functions a tester would need to look at when evaluating Hitman 2 on the Playstation 4.
