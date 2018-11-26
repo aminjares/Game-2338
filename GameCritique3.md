@@ -1,6 +1,6 @@
 # Game Critique 3
 
-### Game Title: Hitman 2 (PS4) 
+### Game Title: Hitman 2 (Playstation 4) 
 
 Hitman 2 is a stealth video game developed by IO Interactive and published by Warner Bros. Hitman 2 was released on November 13, 2018 for Microsoft Windows, PlayStation 4, and Xbox One. It is the seventh entry in the Hitman video game series and is the sequel to the 2016 game Hitman. In Hitman 2 the plays as a hitman named Agent 47. Agent 47 was born on September 5, 1964, in a Romanian asylum with a number tattooed on the back of his head in the form of a barcode. After playing Hitman 2 on Playstation 4 and already have experienced The Hitman entry before, I spotted some functions I think a tester would look at.
 
