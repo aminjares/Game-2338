@@ -1,4 +1,4 @@
-##Fixes From The Fallout 76 Fallout
+### Fixes From The Fallout 76 Fallout
 
 Using the Internet look for and identify five Fallout 76 issues that appear to be game bugs.
 
