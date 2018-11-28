@@ -1,7 +1,7 @@
 ### Fixes From The Fallout 76 Fallout
 
 1. Reddit User: 0918 Gamertag: 0918 
-(Xbox1 elite) Salvaged assaultron head used up all 1300 rounds in one shot. First time equipping it, wanted to see how it worked, apparently not well :) Based off the description of how its supposed to work versus what I did to cause this issue, I did not attempt to reload it before firing, I equipped it (for the first time ever), and then fired. And I didnt even get to hit an enemy!
+(Xbox One) Salvaged assaultron head used up all 1300 rounds in one shot. First time equipping it, wanted to see how it worked, apparently not well :) Based off the description of how its supposed to work versus what I did to cause this issue, I did not attempt to reload it before firing, I equipped it (for the first time ever), and then fired. And I didnt even get to hit an enemy!
 
 
 2. Reddit user: KubatheLost  Gamertag: KubatheLost
