@@ -4,7 +4,7 @@
 Weapon Balances Issues. the light machine gun is way too weak. buff the amount fuel you get when crafting
 Bugs. sometimes heavy weapons do no damages.
 
-2.reddit user: GabrielWithoutWings  Gamertag: XB1X
+2. Reddit user: GabrielWithoutWings  Gamertag: XB1X
 Equipped grenades unequip themselves upon exiting to the main menu.
 
 Using the Internet look for and identify five Fallout 76 issues that appear to be game bugs.
