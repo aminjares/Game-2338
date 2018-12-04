@@ -24,7 +24,7 @@ Description: The camouflage for combat armour bought in the atomic shop will onl
 5. Reddit User: NotSoSlimShady1; GamerTag: Gr33nguyfan
 (PS4) - I’m in the Gauley mine. I picked up the stash cage code but when I click activate on the stash cage, nothing happens.
 
-    Tester: REGRESSION TESTING AND WHITE BOX TESTING
+    Tester: In this case, a tester would consider (Smoke Testing) that involves testing one line of logic that is the stash cage code activating. Not testing other parts of the system just the one with the change. Can be considered high risk because other parts could be affected by the change. Also, (Black Box Testing) can be involved, since this is testing from a user’s perspective. First off, before going into the Gauley mine to pick up the stash cage code, the user should save their game progress. Next, the user will have the advantage to repeat the test in case the test fails. If the test passed, then the user can keep repeating the test to see if the test pass more than fail. Hence, the stash cage code activation is bugged. 
 
 ### Resources:
 
