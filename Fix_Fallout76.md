@@ -8,7 +8,7 @@
 2. Reddit user: KubatheLost  Gamertag: KubatheLost
 (Xbox One) - "Connection failed: Timed out while waiting for server to respond." Is the error I'm faced with more often than not when trying to play with my wife on FO76. I am on a One X her a One S we are on the same network, both hard wired to the router, open NAT types, 175mbps dl, 8mbps ul. Tried to support a ticket they just sent me some basic trouble shooting techniques, they did not work. Then randomly some days we get lucky enough and we can play together, have no idea why sometimes it works fine and other times it is impossible. Even had one day were we started out the day playing together, then after a crash on my end we could not connect to each other for the rest of the day.
 
-    Tester: INTEGRATION TESTING AND WHITE BOX TESTING
+    Tester: In this case, a tester would consider (Integration Testing) when connection fails. Intergration Testing can follow Unit Testing and precedes System Testing. Also, (White Box Testing) is considered instead of black box testing because this bug is one to be tested by a group like a development team.
 
 3. Reddit User: EmoCabbage Gamertag: EmoCabbage
 (PC) - Issue: Camo paint only applies to base armour 
