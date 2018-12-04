@@ -8,14 +8,14 @@
 2. Reddit user: KubatheLost  Gamertag: KubatheLost
 (Xbox One) - "Connection failed: Timed out while waiting for server to respond." Is the error I'm faced with more often than not when trying to play with my wife on FO76. I am on a One X her a One S we are on the same network, both hard wired to the router, open NAT types, 175mbps dl, 8mbps ul. Tried to support a ticket they just sent me some basic trouble shooting techniques, they did not work. Then randomly some days we get lucky enough and we can play together, have no idea why sometimes it works fine and other times it is impossible. Even had one day were we started out the day playing together, then after a crash on my end we could not connect to each other for the rest of the day.
 
-    Tester: In this case, a tester would consider (Integration Testing) when connection fails. Intergration Testing can follow Unit Testing and precedes System Testing. Also, (White Box Testing) is considered instead of black box testing because this bug is one to be tested by a group like a development team.
+    Tester: In this case, a tester would consider (Integration Testing) when connection fails. Intergration Testing can follow Unit Testing and precedes System Testing. Also, (White Box Testing) is considered instead of black box testing because this bug is one to be tested by a group like a development team. First off, the development team would restart the router, then go to settings to test connection. Next, have the whole team try to join each other using the same network. If test fails, then have one person can join a server, while the rest of the team joins that person with their application closed. This can be done through a chat party or straight from the homepage of the consoles. Usually, after restarting the router for the network or closing the application will allow the server to respond again.     
 
 3. Reddit User: EmoCabbage Gamertag: EmoCabbage
 (PC) - Issue: Camo paint only applies to base armour 
 Description: The camouflage for combat armour bought in the atomic shop will only apply to the standard version of combat armor. If it is modded with polymer or shadowed for example, it will show the paint for those, not the camo paint.
 
-     Tester: UNIT TESTING AND WHITE BOX TESTING
-
+     Tester: In this case, a tester would consider (Unit Testing) to test a unit, in which is the camouflage for combat armor. Also, (Functional Testing) to test the camouflage's function that should apply to the combat armor and not just to the base armor. For this exmaple, (White Box Testing) comes into play since (Unit Testing) is usually conducted by the developer or development team. First off, 
+     
 4. Reddit User: OneManArmy96 Gamertag: Daytahbass 
 (PS4) - Having constant issues with inviting friends and joining them. Invites are unavailable when friends are right in front of me, and hitting "Join" seldom works
 
