@@ -19,7 +19,7 @@ Description: The camouflage for combat armour bought in the atomic shop will onl
 4. Reddit User: OneManArmy96; GamerTag: Daytahbass 
 (PS4) - Having constant issues with inviting friends and joining them. Invites are unavailable when friends are right in front of me, and hitting "Join" seldom works
 
-     Tester: In this case, a tester would consider (Integration Testing) in which modules are combined and tested as a group. Modules are typically code modules, such client and server applications on a network as rekated to this case. Also, since  (Inetegration Testing) follows Unit Testing this case would need to be tested by the developer, which brings in (White Box Testing). First off, 
+     Tester: In this case, a tester would consider (Integration Testing) in which modules are combined and tested as a group. Modules are typically code modules, such client and server applications on a network as rekated to this case. Also, since  (Inetegration Testing) follows Unit Testing this case would need to be tested by the developer, which brings in (White Box Testing). First off, have the development team start up the Playstation 4 with each having their own online gamertags and make sure they all have successfully added each other as friends. Next, have one host for the rest of the team to join. Or get the  the host invite everyone. Then, the rest of the team can accept the invite. This can help get the whole team to one place successfully and quickly.  
 
 5. Reddit User: NotSoSlimShady1; GamerTag: Gr33nguyfan
 (PS4) - I’m in the Gauley mine. I picked up the stash cage code but when I click activate on the stash cage, nothing happens.
