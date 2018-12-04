@@ -19,7 +19,7 @@ Description: The camouflage for combat armour bought in the atomic shop will onl
 4. Reddit User: OneManArmy96; GamerTag: Daytahbass 
 (PS4) - Having constant issues with inviting friends and joining them. Invites are unavailable when friends are right in front of me, and hitting "Join" seldom works
 
-     Tester: INTEGRATION TESTING AND WHITE BOX TESTING
+     Tester: In this case, a tester would consider (Integration Testing) in which modules are combined and tested as a group. Modules are typically code modules, such client and server applications on a network as rekated to this case. Also, since  (Inetegration Testing) follows Unit Testing this case would need to be tested by the developer, which brings in (White Box Testing). First off, 
 
 5. Reddit User: NotSoSlimShady1; GamerTag: Gr33nguyfan
 (PS4) - I’m in the Gauley mine. I picked up the stash cage code but when I click activate on the stash cage, nothing happens.
