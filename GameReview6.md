@@ -4,7 +4,13 @@
 
 ## Summary
 
-Dirk Valentine is a side scrolling platform game made by Nitrome. Dirk Valentine can use his weapon to shoot a chained grappling hook to create platforms and to attack the war machine enemies. 
+Dirk Valentine is a side scrolling platform game made by Nitrome. Dirk Valentine can use his weapon to shoot a chained grappling hook to create platforms and to attack the war machine enemies.
+
+## Final Thoughts
+
+
 
 ## Works Cited
+
+https://armorgames.com/play/12378/dirk-valentine?tag-referral=side-scrolling
  
