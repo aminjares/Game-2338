@@ -1,2 +1,8 @@
-Dirk Valentine is a cool steam-punk inspired platform game made by Nitrome. Use your grapling hook to create platforms
-and try to destroy all the steam powered war machines. Enjoy Dirk Valentine and the fortress of steam!
+## Game Review 6
+
+## Game Title: Dirk Valentine 
+
+## Summary
+
+Dirk Valentine is a side scrUseolling platform game made by Nitrome. Dirk Valentine can his grapling hook to create platforms and to attack the war machine enemies. 
+ 
