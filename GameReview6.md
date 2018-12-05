@@ -4,7 +4,7 @@
 
 ## Summary
 
-Dirk Valentine is a side scrolling platform game made by Nitrome. Dirk Valentine can use his weapon to shoot a chained grappling hook to create platforms and to attack the war machine enemies.
+Dirk Valentine is a side scrollingp shooter game and made by Nitrome. Dirk Valentine and the fortress of steam was released on March 27, 2008. Dirk Valentine can use his weapon to shoot a chained grappling hook to create platforms and to attack the war machine enemies.  
 
 ## Final Thoughts
 
