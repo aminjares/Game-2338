@@ -8,7 +8,7 @@ Dirk Valentine is a side scrollingp shooter game and made by Nitrome. Dirk Valen
 
 ## Final Thoughts
 
-Dirk Valentine and The Fortress Of Steam is a easy game to play with only a few game controls and their functions to learn. To move Dirk Valentine back and forth just hit the Left or Right Arrow Key. To make Dirk Valentine jump the user must hit the Up Arrow Key and the Down Arrow Key to make Dirk Valentine go down a chain. The Last game control that makes Dirk Valentine fire his chain gun is to click the left mouse button thats shoots the chain where the arrow pointer mouse is aiming.  
+Dirk Valentine and The Fortress Of Steam is a easy game to play with only a few game controls and their functions to learn. To move Dirk Valentine back and forth just hit the Left or Right Arrow Key. To make Dirk Valentine jump the user must hit the Up Arrow Key and the Down Arrow Key to make Dirk Valentine go down a chain. The Last game control that makes Dirk Valentine fire his chain gun is to click the left mouse button thats shoots the chain where the arrow pointer mouse is aiming. Another thought I had about the game is hilarious. When Dirk Valentine shoots down the war machines, they yell out a dying scream.
 
 ## Works Cited
 
